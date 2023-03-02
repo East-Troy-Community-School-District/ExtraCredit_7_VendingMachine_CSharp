@@ -1,0 +1,7 @@
+\\et-fileserver\staff\pawnol\Desktop\VendingMachine\bin\Debug\VendingMachine.exe.config
+\\et-fileserver\staff\pawnol\Desktop\VendingMachine\bin\Debug\VendingMachine.exe
+\\et-fileserver\staff\pawnol\Desktop\VendingMachine\bin\Debug\VendingMachine.pdb
+\\et-fileserver\staff\pawnol\Desktop\VendingMachine\obj\Debug\VendingMachine.csproj.AssemblyReference.cache
+\\et-fileserver\staff\pawnol\Desktop\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+\\et-fileserver\staff\pawnol\Desktop\VendingMachine\obj\Debug\VendingMachine.exe
+\\et-fileserver\staff\pawnol\Desktop\VendingMachine\obj\Debug\VendingMachine.pdb
